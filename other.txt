@@ -1,3 +1,5 @@
 This is an other file. How original.
 
 Also edited it on smart-git
+
+And also from sourcetree
