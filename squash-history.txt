@@ -1,0 +1,20 @@
+before squash:
+
+o [squash-pracc] [origin/squash-pracc] add squash-history
+|
+o add other file
+|
+o fix typo
+|
+o add file.txt
+|
+0 [origin/main] [origin/HEAD] [main] Initial commit
+
+---
+
+after squash:
+
+
+o [squash-pracc] [origin/squash-pracc] Combined commit (add: file, other file, squash-history)
+|
+0 [origin/main] [origin/HEAD] [main] Initial commit
