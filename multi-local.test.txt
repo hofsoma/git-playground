@@ -1,0 +1,4 @@
+Hello from the right pane!
+This message is sent from the first push of the
+	'chore/multi-local-test'
+branch.
